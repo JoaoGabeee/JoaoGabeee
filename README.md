@@ -9,7 +9,7 @@ Me chamo João Gabriel de Cristo, tenho 17 anos e sou natural do Paraná. Curso 
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/JoaoGabeee?color=6A329F&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+            src="https://custom-icon-badges.demolab.com/github/stars/JoaoGabeee?color=55960C&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
     </a>
     <a href="https://github.com/Larissakich?tab=followers">
