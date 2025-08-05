@@ -2,7 +2,7 @@
 
 **`Desenvolvedora FullStack`**
 
-Me chamo João Gabriel de Cristo, tenho 17 anos e sou natural do Paraná. Curso ensino médio na rede estadual. Sou apaixonada por tecnologia.
+Me chamo João Gabriel de Cristo, tenho 17 anos e sou natural do Paraná. Curso ensino médio na rede estadual. Sou apaixonado por tecnologia.
 
 <p align="left">
     <a href="https://github.com/Larissakich?tab=repositories&sort=stargazers">
