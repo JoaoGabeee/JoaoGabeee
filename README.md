@@ -5,13 +5,11 @@
 Me chamo João Gabriel de Cristo, tenho 17 anos e sou natural do Paraná. Curso ensino médio na rede estadual. Sou apaixonado por tecnologia.
 
 <p align="left">
-    <a href="https://github.com/Joaogabeee?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
             src="https://custom-icon-badges.demolab.com/github/stars/JoaoGabeee?color=55960C&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
-    </a>
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
