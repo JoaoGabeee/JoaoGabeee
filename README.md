@@ -12,7 +12,6 @@ Me chamo João Gabriel de Cristo, tenho 17 anos e sou natural do Paraná. Curso 
             src="https://custom-icon-badges.demolab.com/github/stars/JoaoGabeee?color=55960C&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
     </a>
-    <a href="https://github.com/Larissakich?tab=followers">
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
