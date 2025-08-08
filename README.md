@@ -1,6 +1,6 @@
 ## Hello World!
 
-**`Desenvolvedor FullStack`**
+**`Desenvolvedor iniciante`**
 
 Me chamo João Gabriel de Cristo, tenho 17 anos e sou natural do Paraná. Curso ensino médio na rede estadual. Sou apaixonado por tecnologia.
 
