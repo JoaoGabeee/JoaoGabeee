@@ -20,7 +20,7 @@ Me chamo João Gabriel de Cristo, tenho 17 anos e sou natural do Paraná. Curso 
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### Linguagens e Tecnologias
 
 <img 
     align="left" 
@@ -123,7 +123,7 @@ Me chamo João Gabriel de Cristo, tenho 17 anos e sou natural do Paraná. Curso 
 <br/>
 <br/>
 
-### 📊 Estatísticas
+### Estatísticas
 
 <p>
   <img 
