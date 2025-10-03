@@ -2,7 +2,7 @@
 
 **`Desenvolvedor iniciante`**
 
-Me chamo João Gabriel de Cristo, tenho 17 anos e sou natural do Paraná. Curso ensino médio na rede estadual. Sou apaixonado por tecnologia.
+Me chamo João Gabriel, tenho 17 anos e sou natural do Paraná. Curso ensino médio na rede estadual. Sou apaixonado por tecnologia.
 
 <p align="left">
         <img 
