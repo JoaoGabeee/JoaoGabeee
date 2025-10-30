@@ -2,7 +2,7 @@
 
 **`Desenvolvedor iniciante`**
 
-Me chamo João, gosto muito da área da programção, no futuro pretendo me tornar um programador full-stack trabalhando atrvavés de projetos próprios
+Me chamo João, gosto muito da área da programação, e no futuro pretendo me tornar um programador full-stack trabalhando atrvavés de projetos próprios.
 
 <p align="left">
         <img 
