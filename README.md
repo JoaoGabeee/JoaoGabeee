@@ -2,7 +2,7 @@
 
 **`Desenvolvedor iniciante`**
 
-Me chamo João Gabriel, tenho 17 anos e sou natural do Paraná. Curso ensino médio na rede estadual. Sou apaixonado por tecnologia.
+Me chamo João, gosto muito da área da programção, no futuro pretendo me tornar um programador full-stack trabalhando atrvavés de projetos próprios
 
 <p align="left">
         <img 
